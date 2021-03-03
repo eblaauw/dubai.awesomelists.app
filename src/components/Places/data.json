@@ -83,7 +83,6 @@
                     "icon": "🥾",
                     "name": "Fabran",
                     "description": "Shoe cleaning, repairs of luxury goods",
-                    "tags": ["luxury"],
                     "link": "https://fabram.com"
                 },
                 {
@@ -168,7 +167,7 @@
                 {
                     "icon": "☕️",
                     "name": "1762",
-                    "description": "Multiple locations in Dubai",
+                    "description": "Big cafe with locations in Dubai",
                     "link": "https://justmop.com"
                 }
             ]
