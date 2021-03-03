@@ -1,0 +1,164 @@
+{
+    "categories": [
+        {
+            "category_name": "Brokers",
+            "category_id": "brokers",
+            "category_emoji": "🏡",
+            "places": [
+                {
+                    "icon": "🏡",
+                    "name": "Crescent Real Estate",
+                    "description": "Broker with a wide variety of apartments in Dubai",
+                    "link": "http://cre.ae"
+                },
+                {
+                    "icon": "🏡",
+                    "name": "Engel & Völkers",
+                    "description": "International, premium German broker, operating in Dubai",
+                    "link": "https://www.engelvoelkers.com/en/"
+                }
+            ]
+        },
+        {
+            "category_name": "Car dealers",
+            "category_id": "car_dealers",
+            "category_emoji": "🚙",
+            "places": [
+                {
+                    "icon": "🚙",
+                    "name": "Alba Cars",
+                    "description": "Pre-owned car showroom for buying and selling used luxury cars",
+                    "tags": ["pre-owned"],
+                    "link": "https://albacars.ae"
+                },
+                {
+                    "icon": "🚙",
+                    "name": "RMA Motors",
+                    "description": "Sports & prestige cars dealer from Schotland",
+                    "tags": ["pre-owned"],
+                    "link": "https://www.rmamotors.com/"
+                }
+            ]
+        },
+        {
+            "category_name": "Clubs & Resorts",
+            "category_id": "beach",
+            "category_emoji": "👯‍♀️",
+            "places": [
+                {
+                    "icon": "🏖",
+                    "name": "Caesars Bluewaters",
+                    "description": "Beachclub located in Bluewaters, one of the newest and most luxurious spots in Dubai",
+                    "link": "https://www.caesars.com/dubai/"
+                },
+                {
+                    "icon": "🍾",
+                    "name": "Lock Stock & Barrel",
+                    "description": "Bar with live music, food and drinks",
+                    "link": "https://www.lsbdubai.com/"
+                }
+            ]
+        },
+        {
+            "category_name": "Doctors",
+            "category_emoji": "🏥",
+            "category_id": "doctors",
+            "places": [
+                {
+                    "icon": "👩‍⚕️",
+                    "name": "Nabeela Mahmoud Eid Rashid",
+                    "tags": ["dermatologist"],
+                    "description": "Dermatology & cosmetology specialist at Medcare Hospital",
+                    "link": "https://www.medcare.ae/en/physician/view/nabeela-mahmoud-eid-rashid.html"
+                }
+            ]
+        },
+        {
+            "category_name": "Fashion",
+            "category_emoji": "👔",
+            "category_id": "fashion",
+            "tags": ["drinks", "club"],
+            "places": [
+                {
+                    "icon": "🥾",
+                    "name": "Fabran",
+                    "description": "Shoe cleaning, repairs of luxury goods",
+                    "tags": ["luxury"],
+                    "link": "https://fabram.com"
+                },
+                {
+                    "icon": "👔",
+                    "name": "Viva Style Lounge",
+                    "description": "Bespoke suits and shirts",
+                    "location": "Al Satwa",
+                    "link": "https://g.page/Vsl-Tailors?share"
+                }
+            ]
+        },
+        {
+            "category_name": "Food",
+            "category_id": "food",
+            "category_emoji": "🍱",
+            "places": [
+                {
+                    "icon": "🥙",
+                    "name": "Allo Beirut",
+                    "description": "Lebanese fast-food restaurant",
+                    "location": "Hessa St. and City Walk",
+                    "link": "https://www.allobeirutstreetfood.com/"
+                },
+                {
+                    "icon": "☕️",
+                    "name": "Arabian Teahouse",
+                    "description": "Middle-Eastern restaurant",
+                    "link": "https://arabianteahouse.net/"
+                },
+                {
+                    "icon": "🍤",
+                    "name": "Bu Qtair Restaurant",
+                    "description": "One-of-a-kind fish restaurant near the fishing harbour",
+                    "link": "https://g.page/buqtair?share"
+                },
+                {
+                    "icon": "🥩",
+                    "name": "Butcha Steakhouse",
+                    "description": "Premium steakhouse in one of the most prestigious neighberhoods, City Walk",
+                    "link": "http://butchasteakhouse.ae/"
+                }
+
+            ]
+        },
+        {
+            "category_name": "Government services",
+            "category_id": "government_services",
+            "category_emoji": "🏛",
+            "places": [
+                {
+                    "icon": "📝",
+                    "name": "Al Manara Centre",
+                    "description": "Municipality centre for Ejari, driving licenses (and eye tests) and legalisation",
+                    "link": "https://goo.gl/maps/bAygDHvA6zfrHzeX6"
+                }
+            ]
+        },
+        {
+            "category_name": "Home services",
+            "category_id": "home_services",
+            "category_emoji": "🏠",
+            "places": [
+                {
+                    "icon": "🧼",
+                    "name": "Justmop",
+                    "description": "Cleaning and handyman service all over Dubai",
+                    "link": "https://justmop.com"
+                },
+                {
+                    "icon": "🔑",
+                    "name": "Minutes.ae",
+                    "description": "Copying of (car) keys, creation of keychains",
+                    "link": "https://www.minutes.co.ae/"
+                }
+            ]
+        }
+    ]
+}
