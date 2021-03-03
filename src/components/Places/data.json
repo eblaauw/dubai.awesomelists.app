@@ -159,6 +159,19 @@
                     "link": "https://www.minutes.co.ae/"
                 }
             ]
+        },
+        {
+            "category_name": "Places to work",
+            "category_id": "places_to_work",
+            "category_emoji": "💼",
+            "places": [
+                {
+                    "icon": "☕️",
+                    "name": "1762",
+                    "description": "Multiple locations in Dubai",
+                    "link": "https://justmop.com"
+                }
+            ]
         }
     ]
 }
