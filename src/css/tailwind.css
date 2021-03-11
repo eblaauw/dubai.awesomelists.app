@@ -1,3 +1,17 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/* .smallShadowRight:after {
+    content: "";
+    width: 39px;
+    height: 56px;
+    display: block;
+    top: 0;
+    right: 0px;
+    position: absolute;
+    pointer-events: none;
+    background: linear-gradient(
+90deg
+, rgba(255, 255, 255, 0.30), rgba(160, 160, 160, 0.15) 46.32%, rgb(255, 255, 255));
+} */

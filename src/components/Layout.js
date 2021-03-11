@@ -11,10 +11,7 @@ const Layout = ({ children }) => {
         </div>
         <div className="w-full">
           <div className="mt-8 md:mt-8 mb-8">
-            <div className="bg-yellow-200 shadow p-5 rounded-md">
-              <h2 className="text-3xl md:text-4xl font-bold  text-yellow-800">
-                About this website
-          </h2>
+            <div className="shadow p-5 rounded-md">
               <p className="text-gray-800 pt-4">
                 Dubai is an amazing place to be in, but it can be hard to find the right places. You won't see a big list with all possible options, you'll only see the best of the best in this list.<br /> <br />
           </p>
