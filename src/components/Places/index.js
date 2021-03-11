@@ -1,5 +1,5 @@
 import React from "react"
-import PlacesJSON from './data.json';
+import PlacesJSON from './../../data/places.json';
 import PlacesCategory from '../PlacesCategory'
 const Places = () => (
     <div>

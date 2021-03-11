@@ -1,5 +1,5 @@
 import React from "react"
-import PlacesJSON from './../Places/data.json'
+import PlacesJSON from './../../data/places.json';
 const List = () => (
     <div className="relative">
     <div className="smallShadowRight w-full">
