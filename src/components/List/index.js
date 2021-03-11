@@ -9,7 +9,8 @@ const List = () => (
                         return (
                             <a href={'#' + PlacesJSON.categories[i].category_id} className="font-medium hover:font-bold py-4">
                                 <li key={i} className="inline-block bg-white mx-3 p-4 shadow-sm hover:shadow-md rounded-lg border-gray-100 border-2">
-                                    <span type="img" className="text-center">{PlacesJSON.categories[i].category_emoji}</span>
+                                    <span type="img" className="text-center pr-2">{PlacesJSON.categories[i].category_emoji}</span>
+                                    <span>{PlacesJSON.categories[i].category_name}</span>
                                 </li>
                             </a>
                         )
